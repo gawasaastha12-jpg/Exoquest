@@ -31,45 +31,45 @@ Random Forest predicts classification
 Results are visualized with metrics
 
 🔬 Parameters Used
-1] Orbital Data
-Orbital Period
-Eccentricity
+1] Orbital Data - 
+Orbital Period, 
+Eccentricity, 
 Semi-major Axis
-2] Stellar Data
-Stellar Mass
-Stellar Radius
-3] Planetary Data
-Planet Radius & Mass
-Surface Gravity
-Equilibrium Temperature
-4] Detection Data
-Transit Depth
-Transit Duration
-5] Data Reliability Enhancements
-6] Kepler Disposition Labels
-6] Signal Strength Indicators
-7] Detection Method Awareness
-8] Data Quality Filtering
+2] Stellar Data - 
+Stellar Mass, 
+Stellar Radius 
+3] Planetary Data - 
+Planet Radius & Mass, 
+Surface Gravity, 
+Equilibrium Temperature 
+4] Detection Data - 
+Transit Depth, 
+Transit Duration 
+5] Data Reliability Enhancements 
+6] Kepler Disposition Labels 
+6] Signal Strength Indicators 
+7] Detection Method Awareness 
+8] Data Quality Filtering 
 
 🛠️ Tech Stack
 Category	Tools
-Language - Python
-UI - Streamlit
-ML - Scikit-learn
-Data - Pandas, NumPy
-Visualization	- Matplotlib
+Language - Python, 
+UI - Streamlit, 
+ML - Scikit-learn, 
+Data - Pandas, NumPy, 
+Visualization	- Matplotlib, 
 Model -	Random Forest
 
 📊 Performance
-   Accuracy: 92.73%
-   Fast inference
+   Accuracy: 92.73%, 
+   Fast inference, 
    Reduced false positives using NASA flags
 
    Streamlit Deployed link - https://exoplanet-ai-2025.streamlit.app/
 
 🔮 Future Scope
-   SaaS deployment
-   Deep Learning models (CNNs, Neural Nets)
-   Live NASA API integration
-   Advanced analytics dashboard
-   Multi-user collaboration
+   SaaS deployment, 
+   Deep Learning models (CNNs, Neural Nets), 
+   Live NASA API integration, 
+   Advanced analytics dashboard, 
+   Multi-user collaboration, 
