@@ -4,52 +4,53 @@ ExopQuest is a machine learning-powered web application that enables users to an
 
 Built on top of NASA-inspired data, the platform provides a no-code, interactive dashboard where users can input planetary parameters and instantly receive predictions about whether a celestial object is a:
 
-✅ Confirmed Exoplanet
-⚠️ Candidate
-❌ False Positive
+✅ Confirmed Exoplanet, 
+⚠️ Candidate, 
+❌ False Positive, 
 
 This project bridges the gap between complex astrophysics and accessible AI tools, making space science more approachable.
 
 ✨ Why This Project Matters
- Democratizes access to real space data
- Makes machine learning usable without coding
- Encourages exploration in astrophysics
- Perfect for students, researchers, and educators
+ Democratizes access to real space data, 
+ Makes machine learning usable without coding, 
+ Encourages exploration in astrophysics, 
+ Perfect for students, researchers, and educators 
+ 
  Features
- ML-Based Classification (92.73% Accuracy)
- Interactive Streamlit Dashboard
- Flexible Data Input (custom + datasets)
- Visual Insights & Prediction Metrics
- Real-time Predictions
+ ML-Based Classification (92.73% Accuracy), 
+ Interactive Streamlit Dashboard, 
+ Flexible Data Input (custom + datasets), 
+ Visual Insights & Prediction Metrics, 
+ Real-time Predictions, 
  Scientifically grounded feature selection
 
 🧠 How It Works
-User inputs astrophysical parameters
-Data is cleaned and processed
-Model evaluates multiple scientific features
-Random Forest predicts classification
-Results are visualized with metrics
+User inputs astrophysical parameters -> 
+Data is cleaned and processed -> 
+Model evaluates multiple scientific features -> 
+Random Forest predicts classification -> 
+Results are visualized with metrics 
 
 🔬 Parameters Used
 1] Orbital Data - 
 Orbital Period, 
 Eccentricity, 
-Semi-major Axis
+Semi-major Axis,   
 2] Stellar Data - 
 Stellar Mass, 
-Stellar Radius 
+Stellar Radius,  
 3] Planetary Data - 
 Planet Radius & Mass, 
 Surface Gravity, 
-Equilibrium Temperature 
+Equilibrium Temperature,  
 4] Detection Data - 
 Transit Depth, 
-Transit Duration 
-5] Data Reliability Enhancements 
-6] Kepler Disposition Labels 
-6] Signal Strength Indicators 
-7] Detection Method Awareness 
-8] Data Quality Filtering 
+Transit Duration  
+5] Data Reliability Enhancements  
+6] Kepler Disposition Labels  
+6] Signal Strength Indicators  
+7] Detection Method Awareness  
+8] Data Quality Filtering  
 
 🛠️ Tech Stack
 Category	Tools
